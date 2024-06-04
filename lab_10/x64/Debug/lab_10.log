@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(71,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(132,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(174,16): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(193,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(203,18): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(213,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(241,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(245,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(249,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\Second Course\3 sem\АИСД\lab_10\Source.cpp(253,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  lab_10.vcxproj -> D:\Desktop\Second Course\3 sem\АИСД\lab_10\x64\Debug\lab_10.exe

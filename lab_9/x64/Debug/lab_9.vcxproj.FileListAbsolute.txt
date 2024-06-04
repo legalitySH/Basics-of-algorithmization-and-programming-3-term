@@ -1,0 +1,3 @@
+D:\Desktop\Second Course\АИСД\lab_9\x64\Debug\lab_9.exe
+D:\Desktop\Second Course\1 sem\АИСД\lab_9\x64\Debug\lab_9.exe
+D:\SecondCourse\3sem\АИСД\lab_9\x64\Debug\lab_9.exe

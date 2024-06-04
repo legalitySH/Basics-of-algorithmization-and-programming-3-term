@@ -1,0 +1,4 @@
+﻿  Orgraph.cpp
+D:\Desktop\Second Course\АИСД\lab_3\Orgraph.cpp(8,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\Second Course\АИСД\lab_3\Orgraph.cpp(8,17): warning C4309: инициализация: усечение константного значения
+  lab_3.vcxproj -> D:\Desktop\Second Course\АИСД\lab_3\x64\Debug\lab_3.exe

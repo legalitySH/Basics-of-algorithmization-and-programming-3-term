@@ -1,0 +1,7 @@
+﻿D:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab_3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Orgraph.cpp
+D:\Desktop\Second Course\АИСД\lab_4\Orgraph.cpp(7,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Desktop\Second Course\АИСД\lab_4\Orgraph.cpp(7,17): warning C4309: инициализация: усечение константного значения
+D:\Desktop\Second Course\АИСД\lab_4\Orgraph.cpp(37,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Desktop\Second Course\АИСД\lab_4\Orgraph.cpp(37,24): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+  lab_3.vcxproj -> D:\Desktop\Second Course\АИСД\lab_4\x64\Debug\lab_4.exe

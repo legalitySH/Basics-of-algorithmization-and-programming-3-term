@@ -1,0 +1,4 @@
+﻿  backpack.cpp
+D:\SecondCourse\3sem\АИСД\lab_8\backpack.cpp(65,37): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\SecondCourse\3sem\АИСД\lab_8\backpack.cpp(95,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_8.vcxproj -> D:\SecondCourse\3sem\АИСД\lab_8\x64\Debug\lab_8.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Desktop\Second Course\АИСД\lab_2\main.cpp(16,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_2.vcxproj -> D:\Desktop\Second Course\АИСД\lab_2\x64\Debug\lab_2.exe
